@@ -15,7 +15,7 @@
 
 
 // Details of AP to connect to on boot. 
-const char* ssid = "your WiFi AP name here;
+const char* ssid = "your WiFi AP name here";
 const char* password = "your WiFi AP password here";
 
 // Pin connected to the LED.
